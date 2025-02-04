@@ -10,6 +10,9 @@ function App() {
     <>
       <MyNav title="Epic Book Shop" />
 
+      <Welcome />
+      <AllTheBooks />
+
       <MyFooter />
     </>
   );
